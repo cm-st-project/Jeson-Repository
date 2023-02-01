@@ -124,20 +124,20 @@
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="copy_toast_msg">Link copied to clipboard</string>
-    <string name="default_web_client_id" translatable="false">898562114472-d1nh40t5inbfgs7ab0h6ea0te62ibma5.apps.googleusercontent.com</string>
+    <string name="default_web_client_id" translatable="false">827106228620-3v4kp1vcpvmod4fldo2p9siqqrookvfe.apps.googleusercontent.com</string>
     <string name="fallback_menu_item_copy_link">Copy link</string>
     <string name="fallback_menu_item_open_in_browser">Open in browser</string>
     <string name="fallback_menu_item_share_link">Share link</string>
-    <string name="gcm_defaultSenderId" translatable="false">898562114472</string>
-    <string name="google_api_key" translatable="false">AIzaSyCoyvdFFANLVrYspqmv--uK_XFvYT1xh60</string>
-    <string name="google_app_id" translatable="false">1:898562114472:android:4d6167f2504f55867d939d</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCoyvdFFANLVrYspqmv--uK_XFvYT1xh60</string>
-    <string name="google_storage_bucket" translatable="false">pizza-5e371.appspot.com</string>
-    <string name="project_id" translatable="false">pizza-5e371</string>
+    <string name="gcm_defaultSenderId" translatable="false">827106228620</string>
+    <string name="google_api_key" translatable="false">AIzaSyAIn_HW9OZpAruKfViRP9ddfwM6x3wA6NA</string>
+    <string name="google_app_id" translatable="false">1:827106228620:android:6327da4e2af33ddd4f7ea9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAIn_HW9OZpAruKfViRP9ddfwM6x3wA6NA</string>
+    <string name="google_storage_bucket" translatable="false">jeson-app.appspot.com</string>
+    <string name="project_id" translatable="false">jeson-app</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
         <!-- Show a splash screen on the activity. Automatically removed when
-             Flutter draws its first frame -->
+             the Flutter engine draws its first frame -->
         <item name="android:windowBackground">@drawable/launch_background</item>
     </style>
     <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
